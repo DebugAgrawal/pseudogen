@@ -1,6 +1,6 @@
-rust-sudo is built un CODENN
+Rust-sudo is built on CODENN
 
-see details of CODENN in the paper
+To see details of CODENN, checkout this paper:
 
 Summarizing Source Code using a Neural Attention Model (https://github.com/sriniiyer/codenn/blob/master/summarizing_source_code.pdf)
 
